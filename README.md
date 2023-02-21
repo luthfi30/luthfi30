@@ -1,6 +1,6 @@
 # 💫 Hi there i'm Luthfirrahman:
   I am a web developer with expertise in the Laravel framework. I have a passion for creating responsive and user-friendly websites that meet the unique needs of my clients. With my experience and knowledge, I can take on projects of varying complexity and deliver high-quality results within the given time frame.<br><br>
-  If you are looking for a web developer who is reliable, knowledgeable, and dedicated to delivering high-quality work, look no further! I would be happy to discuss your project with you and provide you with a solution that fits your needs.k<br>
+  If you are looking for a web developer who is reliable, knowledgeable, and dedicated to delivering high-quality work, look no further! I would be happy to discuss your project with you and provide you with a solution that fits your needs.<br>
 
 
 ## 🌐 Socials:
